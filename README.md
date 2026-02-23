@@ -1,11 +1,7 @@
 ## Hi, I'm Edwin 😎
 
-🧠 Aspiring Software Engineer<br/>
+🧠 Software Engineer<br/>
 🧩 Problem-solver and Puzzle Lover<br/>
-👨‍💻 Student At semicolonafrica<br/>
-🎥 I make videos of codes and software engineers lifestyle [instagram](https://www.instagram.com/_the_realedwin?igsh=Z3ptYnU2eGJ5a2Ux)
-
-
 
 
 ## 🌐 Socials:

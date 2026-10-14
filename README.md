@@ -24,7 +24,7 @@ I like turning messy requirements into clean, maintainable services, and I enjoy
 
 - **[Verification Ingestion Mini System](https://github.com/EdwinYV/verification-ingestion-mini-system)**: Microservices identity verification platform (NIN, BVN, Passport, Driver's Licence). Async processing via RabbitMQ, Redis caching, per-transaction billing. *Node.js · Docker · PostgreSQL · MongoDB · Redis · RabbitMQ*
 - **[AI Compliance Telegram Bot (RAG service)](https://github.com/abojeEdwin/ai-compliance-tg-bot-rag-service)**: RAG backend that crawls developer docs and answers compliance questions from a vector-searched knowledge base, using parent-child chunking and cosine-similarity search. *Python · FastAPI · pgvector · Cohere*
-- **[TrailForge Learning Management System](dev.eddythebuilder.me)**: A multi-tenant comprehensive learning management system designed for modern organizations. Organisations can upload custom learning materials, track and manage staffs and interns learning progress. *Java · Docker · MongoDB · Cloudinary · Nextjs*
+- **[TrailForge Learning Management System](dhttps://dev.eddythebuilder.me)**: A multi-tenant comprehensive learning management system designed for modern organizations. Organisations can upload custom learning materials, track and manage staffs and interns learning progress. *Java · Docker · MongoDB · Cloudinary · Nextjs*
 ## 🌱 Currently exploring
 
 - Payment systems and settlement flows

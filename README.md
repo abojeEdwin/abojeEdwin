@@ -8,7 +8,7 @@ I like turning messy requirements into clean, maintainable services, and I enjoy
 
 ## 💼 What I'm doing now
 
-- **Usenova** I am currently building a platform that help developers keep backend services always-on  when they deploy it could be on their own infrastructure (Oracle Free Tier, cheap VPS, home servers, etc.) or deployed on Usenova. Usenova promises excellent DX, and then it would evolve into a marketplace where people can rent out spare capacity, with Stellar handling payments and escrow.
+- **Usenova** I am currently building a platform that help developers keep backend services always-on  when they deploy. It could be on their own infrastructure (Oracle Free Tier, cheap VPS, home servers, etc.) or deployed on Usenova. Usenova promises excellent DX, and then it would evolve into a marketplace where people can rent out spare capacity, with Stellar handling payments and escrow.
 
 ## 🔧 Tech stack
 
